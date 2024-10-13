@@ -19,8 +19,8 @@ To run this script, ensure you have the following installed:
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/ip-geolocation-lookup.git
-   cd ip-geolocation-lookup
+   git clone https://github.com/FrenchEthicalsHackers/IP-Lookup.git
+   cd Ip-Lookup
    ```
 
 2. Install the required packages:
